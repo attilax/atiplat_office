@@ -15,6 +15,7 @@ import com.artofsolving.jodconverter.openoffice.converter.OpenOfficeDocumentConv
 
 /**
  * @author attilax
+ * qc25
  *
  */
 public class Office2Pdf {
